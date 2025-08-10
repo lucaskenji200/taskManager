@@ -1,4 +1,4 @@
-# Gerenciador de Tarefas - Full-Stack
+8# Gerenciador de Tarefas - Full-Stack
 
 Este é um projeto Full-Stack de um Gerenciador de Tarefas (To-Do List) que permite aos usuários criar, gerenciar, filtrar e pesquisar suas tarefas. A aplicação utiliza React.js no frontend e um servidor Node.js com Express para o backend, com os dados sendo persistidos em um arquivo JSON.
 ## Funcionalidades
@@ -15,7 +15,6 @@ Este é um projeto Full-Stack de um Gerenciador de Tarefas (To-Do List) que perm
 
 #### **Frontend**
 -   [**React.js**](https://reactjs.org/)
--   **CSS Moderno** (Flexbox, Grid, Variáveis)
 
 #### **Backend**
 -   [**Node.js**](https://nodejs.org/)
